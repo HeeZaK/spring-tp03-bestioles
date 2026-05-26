@@ -1,5 +1,7 @@
 # Spring TP03 – Bestioles
 
+Benjamin LARDAIS
+
 Projet Spring Boot pour le TP03 – Spring Data JPA avec repositories.
 
 ## Prérequis
